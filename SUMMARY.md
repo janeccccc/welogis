@@ -2,4 +2,5 @@
 
 ## 퀵가이드 <a href="#quick" id="quick"></a>
 
-* [test](README.md)
+* [회사관리](README.md)
+* [test](<README (1).md>)
