@@ -14,3 +14,7 @@
 ## 화주관리 <a href="#cammmmm1" id="cammmmm1"></a>
 
 * [화주추가](cammmmm1/comadd.md)
+
+## 무료체험 <a href="#free" id="free"></a>
+
+* [무료체험신청](free/howfree.md)
