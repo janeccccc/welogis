@@ -1,14 +1,12 @@
 # Table of contents
 
-## 퀵가이드 <a href="#quick" id="quick"></a>
+## 물류사관리
 
 * [회사관리](README.md)
-* [test](<README (1).md>)
-
-## 창고관리 <a href="#waremanage" id="waremanage"></a>
-
-* [회원관리](waremanage/undefined.md)
+* [회원관리](undefined/undefined-1.md)
+* [창고관리](undefined/undefined-2.md)
+* [택배관리](undefined/undefined-3.md)
 
 ## Group 2
 
-* [Page 1](group-2/page-1.md)
+* [Page 3](group-2/page-3.md)
